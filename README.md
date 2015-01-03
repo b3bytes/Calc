@@ -1,4 +1,7 @@
 Calc
 ====
 
-Calculator (Testing the git setup)
+Calculator.
+
+First repository to test the git/github setup.
+
